@@ -5,6 +5,7 @@ INJECTED from /Users/s11306/product/KMM_sample/androidApp/src/main/AndroidManife
 INJECTED from /Users/s11306/product/KMM_sample/androidApp/src/main/AndroidManifest.xml:2:1-14:12
 INJECTED from /Users/s11306/product/KMM_sample/androidApp/src/main/AndroidManifest.xml:2:1-14:12
 MERGED from [:shared] /Users/s11306/product/KMM_sample/shared/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.squareup.sqldelight:android-driver:1.4.3] /Users/s11306/.gradle/caches/transforms-2/files-2.1/5415613a3a262e7aafe0cc759d772cc7/android-driver-1.4.3/AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.material:material:1.2.1] /Users/s11306/.gradle/caches/transforms-2/files-2.1/260b5696b5c109b4edba67184e830b93/material-1.2.1/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/s11306/.gradle/caches/transforms-2/files-2.1/5c0fdb0d1cd136ddc803f5b43b6d2e87/constraintlayout-2.0.2/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/s11306/.gradle/caches/transforms-2/files-2.1/52a205d3b8f3f8bfa152528aefe609c2/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
@@ -24,6 +25,8 @@ MERGED from [androidx.customview:customview:1.0.0] /Users/s11306/.gradle/caches/
 MERGED from [androidx.loader:loader:1.0.0] /Users/s11306/.gradle/caches/transforms-2/files-2.1/9dc76508a78656f56f3b128b74af7460/loader-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.activity:activity:1.0.0] /Users/s11306/.gradle/caches/transforms-2/files-2.1/4523dfdc4d2008bb159fba8b0d4ff5b7/activity-1.0.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.core:core:1.3.1] /Users/s11306/.gradle/caches/transforms-2/files-2.1/a5d6572e51912cb1daffb5dfb7739fc1/core-1.3.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/s11306/.gradle/caches/transforms-2/files-2.1/4925ed2d1c2e292ce4efa3e9069c474c/sqlite-framework-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/s11306/.gradle/caches/transforms-2/files-2.1/f770c61eb380d35ed852e8dc9506b390/sqlite-2.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/s11306/.gradle/caches/transforms-2/files-2.1/34dfa5855daec07b665c4620c90279cb/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/s11306/.gradle/caches/transforms-2/files-2.1/cbe0fe9e2dd91b54bf8b279ac4b5835f/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/s11306/.gradle/caches/transforms-2/files-2.1/73621be72781adf83c223f6cbc087288/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
@@ -88,6 +91,8 @@ INJECTED from /Users/s11306/product/KMM_sample/androidApp/src/main/AndroidManife
 INJECTED from /Users/s11306/product/KMM_sample/androidApp/src/main/AndroidManifest.xml
 MERGED from [:shared] /Users/s11306/product/KMM_sample/shared/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:shared] /Users/s11306/product/KMM_sample/shared/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.squareup.sqldelight:android-driver:1.4.3] /Users/s11306/.gradle/caches/transforms-2/files-2.1/5415613a3a262e7aafe0cc759d772cc7/android-driver-1.4.3/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.sqldelight:android-driver:1.4.3] /Users/s11306/.gradle/caches/transforms-2/files-2.1/5415613a3a262e7aafe0cc759d772cc7/android-driver-1.4.3/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.material:material:1.2.1] /Users/s11306/.gradle/caches/transforms-2/files-2.1/260b5696b5c109b4edba67184e830b93/material-1.2.1/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.material:material:1.2.1] /Users/s11306/.gradle/caches/transforms-2/files-2.1/260b5696b5c109b4edba67184e830b93/material-1.2.1/AndroidManifest.xml:20:5-44
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/s11306/.gradle/caches/transforms-2/files-2.1/5c0fdb0d1cd136ddc803f5b43b6d2e87/constraintlayout-2.0.2/AndroidManifest.xml:5:5-7:41
@@ -126,6 +131,10 @@ MERGED from [androidx.activity:activity:1.0.0] /Users/s11306/.gradle/caches/tran
 MERGED from [androidx.activity:activity:1.0.0] /Users/s11306/.gradle/caches/transforms-2/files-2.1/4523dfdc4d2008bb159fba8b0d4ff5b7/activity-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.core:core:1.3.1] /Users/s11306/.gradle/caches/transforms-2/files-2.1/a5d6572e51912cb1daffb5dfb7739fc1/core-1.3.1/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.core:core:1.3.1] /Users/s11306/.gradle/caches/transforms-2/files-2.1/a5d6572e51912cb1daffb5dfb7739fc1/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/s11306/.gradle/caches/transforms-2/files-2.1/4925ed2d1c2e292ce4efa3e9069c474c/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/s11306/.gradle/caches/transforms-2/files-2.1/4925ed2d1c2e292ce4efa3e9069c474c/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/s11306/.gradle/caches/transforms-2/files-2.1/f770c61eb380d35ed852e8dc9506b390/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/s11306/.gradle/caches/transforms-2/files-2.1/f770c61eb380d35ed852e8dc9506b390/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/s11306/.gradle/caches/transforms-2/files-2.1/34dfa5855daec07b665c4620c90279cb/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/s11306/.gradle/caches/transforms-2/files-2.1/34dfa5855daec07b665c4620c90279cb/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/s11306/.gradle/caches/transforms-2/files-2.1/cbe0fe9e2dd91b54bf8b279ac4b5835f/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
