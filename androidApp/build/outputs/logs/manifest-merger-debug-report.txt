@@ -4,7 +4,7 @@ ADDED from /Users/s11306/product/KMM_sample/androidApp/src/main/AndroidManifest.
 INJECTED from /Users/s11306/product/KMM_sample/androidApp/src/main/AndroidManifest.xml:2:1-14:12
 INJECTED from /Users/s11306/product/KMM_sample/androidApp/src/main/AndroidManifest.xml:2:1-14:12
 INJECTED from /Users/s11306/product/KMM_sample/androidApp/src/main/AndroidManifest.xml:2:1-14:12
-MERGED from [:shared] /Users/s11306/product/KMM_sample/shared/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:shared] /Users/s11306/product/KMM_sample/shared/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [com.squareup.sqldelight:android-driver:1.4.3] /Users/s11306/.gradle/caches/transforms-2/files-2.1/3754572fcd531ff1d6745f6c407165db/android-driver-1.4.3/AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.material:material:1.2.1] /Users/s11306/.gradle/caches/transforms-2/files-2.1/0c2e496af0cd8ae376325455b45c85af/material-1.2.1/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/s11306/.gradle/caches/transforms-2/files-2.1/65a486b52659ad6bd798a9a0fb0571fb/constraintlayout-2.0.2/AndroidManifest.xml:2:1-11:12
@@ -163,3 +163,7 @@ INJECTED from /Users/s11306/product/KMM_sample/androidApp/src/main/AndroidManife
 		INJECTED from /Users/s11306/product/KMM_sample/androidApp/src/main/AndroidManifest.xml
 		ADDED from /Users/s11306/product/KMM_sample/androidApp/src/main/AndroidManifest.xml
 		INJECTED from /Users/s11306/product/KMM_sample/androidApp/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [:shared] /Users/s11306/product/KMM_sample/shared/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from [:shared] /Users/s11306/product/KMM_sample/shared/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:22-64
